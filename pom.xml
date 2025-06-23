@@ -13,6 +13,7 @@
     <modules>
         <module>java_modifiers</module>
         <module>java_generic</module>
+        <module>java_Anonymous_Inner_Class</module>
     </modules>
 
     <properties>
